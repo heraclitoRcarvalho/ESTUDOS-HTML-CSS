@@ -1,0 +1,23 @@
+body{
+background-color: #202020;
+}
+.texto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+.texto2{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}

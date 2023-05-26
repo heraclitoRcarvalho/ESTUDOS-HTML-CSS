@@ -1,0 +1,22 @@
+.Centro002{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+body{
+color: white;
+font-family: Arial;
+background-color: #202020;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.texto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+}

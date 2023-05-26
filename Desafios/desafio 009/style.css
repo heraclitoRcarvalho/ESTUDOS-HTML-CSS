@@ -1,0 +1,18 @@
+body{
+    color: white;
+    font-family: Arial;
+    background-color: #202020;
+    font-size: large;
+}
+.box{
+justify-content: center;
+
+.Centro{
+display: flex;
+justify-content: center;
+}
+.Centro2{
+    display: flex;
+    justify-content: center;}
+    
+}

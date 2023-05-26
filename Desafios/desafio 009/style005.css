@@ -1,0 +1,26 @@
+body{
+    background-color: #202020;
+}
+
+.texto{
+color: white;
+font-family: Arial;
+justify-content: center;
+display: flex;
+font-size: larger;
+
+}
+
+.video{
+display: flex;
+justify-content: center;
+
+}
+
+.texto2{
+    color: white;
+    font-family: Arial;
+    justify-content: center;
+    display: flex;
+    font-size: larger;
+}
